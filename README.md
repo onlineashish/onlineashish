@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-<img max-width=auto height ="400px" src="https://github.com/onlineashish/onlineashish/blob/main/Hi%20There!.png"/>
+<img max-width=auto src="https://raw.githubusercontent.com/onlineashish/onlineashish/main/assets/Banner2.png"/>
 </div>
 <h4 align="center">
 💻 M.Tech CSE <a href="https://www.linkedin.com/school/indian-institute-of-technology-gandhinagar-iitgn-/?originalSubdomain=in">IIT Gandhinagar</a> | 💬 connect <a href="https://www.linkedin.com/in/ashish-sah-1828b216a//">Ashish Linkedin</a>
